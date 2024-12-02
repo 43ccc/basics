@@ -1,0 +1,1 @@
+Various, fairly basic ML implementations. Each folder contains its own readme with more information.
