@@ -42,6 +42,7 @@ def train(num_epochs, train_dataloader, test_dataloader, model, lr, device, earl
     return best_test_acc
 
 def train_model(model, optimizer, train_dataloader, device):
+    model.train()
     total_correct = 0
     total_loss = 0
 

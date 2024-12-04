@@ -1,8 +1,3 @@
-# Current problems:
-# - Best performing augmentations are not shown well
-# - I dont want to save the model during this evaluation, esp not overwrite the normally trained one
-# - 
-
 import torchvision.transforms.v2 as transforms
 from train import train
 from data_functions import get_dataloaders

@@ -15,4 +15,4 @@ Simple CNN classifier for the CIFAR-10 Dataset.
 - Roughly follow scaling used by EfficientNet https://arxiv.org/pdf/1905.11946
 
 ## Accuracy
-Test Acc: 0.822, increases with larger network sizes.
+Test Acc: 0.847 after 30 epochs of training, performance increases with larger network sizes and proper training times.

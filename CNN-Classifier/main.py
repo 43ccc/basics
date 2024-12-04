@@ -10,9 +10,6 @@ from hyperparameters import hyperparameters
 device = 'cuda' if torch.cuda.is_available else 'cpu'
 RANDOM_SEED = 0
 
-# TODO:
-# - back to GLU
-# - maybe improve strucutre, maybe just ignore and do later
 def main():
 
     # Fix random seed
