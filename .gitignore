@@ -2,6 +2,7 @@
 **/data/
 **/trained_models/
 **/generated_images/
+**/evaluation_images/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
